@@ -1,1 +1,0 @@
-#initialize git repository to update and track changes as well as practice for using github commands
